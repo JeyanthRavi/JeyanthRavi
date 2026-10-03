@@ -59,17 +59,17 @@
     <text x="390" y="119"><tspan class="label">Role</tspan><tspan class="value"> .............. Computer Science Undergraduate</tspan></text>
     <text x="390" y="143"><tspan class="label">University</tspan><tspan class="value"> ........ VIT Chennai · Class of 2029</tspan></text>
     <text x="390" y="167"><tspan class="label">CGPA</tspan><tspan class="value"> .............. 8.73 / 10</tspan></text>
-    <text x="390" y="191"><tspan class="label">Focus</tspan><tspan class="value"> ............. Applied AI · Multimodal ML</tspan></text>
+    <text x="390" y="191"><tspan class="label">Focus</tspan><tspan class="value"> ............. Applied AI · Bioinformatics</tspan></text>
   </g>
 
   <line x1="390" y1="214" x2="954" y2="214" class="line"/>
   <text x="390" y="239" class="mono label" font-size="13">Toolbox</text>
-  <text x="390" y="263" class="mono value" font-size="13">Python · PyTorch · Transformers · QLoRA</text>
+  <text x="390" y="263" class="mono value" font-size="13">Python · PyTorch · ESM-2 · XGBoost · QLoRA</text>
   <text x="390" y="285" class="mono value" font-size="13">Computer Vision · scikit-learn · FastAPI</text>
   <text x="390" y="307" class="mono value" font-size="13">TypeScript · Next.js · React · SQL · Git</text>
 
   <line x1="390" y1="330" x2="954" y2="330" class="line"/>
   <text x="390" y="355" class="mono label" font-size="13">Featured build</text>
-  <text x="390" y="379" class="mono value" font-size="13">VERBA — adversarial AI reasoning for disputes</text>
+  <text x="390" y="379" class="mono value" font-size="13">PHAGE-X — explainable phage candidate ranking</text>
   <text x="390" y="402" class="mono" font-size="13"><tspan fill="#31c2b5">status:</tspan><tspan fill="#c8d2d3"> learning, shipping, measuring outcomes </tspan><tspan fill="#31c2b5">▋</tspan></text>
 </svg>
