@@ -12,7 +12,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[PHAGE-X](https://jeyanthravi.github.io/#work)** | Ranks phage candidates for an uploaded *K. pneumoniae* isolate, explains compatibility signals, and proposes a complementary laboratory-testing shortlist with strict evidence gates. | ESM-2, XGBoost, FastAPI, React |
+| **[PHAGE-X](https://github.com/JeyanthRavi/phage-x)** | Ranks phage candidates for an uploaded *K. pneumoniae* isolate, explains compatibility signals, and proposes a complementary laboratory-testing shortlist with strict evidence gates. | ESM-2, XGBoost, FastAPI, React |
 | **[Amazon ML Challenge 2026](https://github.com/JeyanthRavi/Amazon_ML)** | Entity-resolution pipeline with 23 similarity features; achieved **0.857 public macro F0.5**. | Python, boosted trees |
 | **[VERBA](https://github.com/JeyanthRavi/verba)** | Argues both sides of a dispute independently, synthesizes evidence, and converts reviewed findings into an agreement. **[Live ↗](https://pslang-ai-judge.vercel.app)** | Next.js, GenAI, secure workflows |
 | **[VisualQA India](https://github.com/JeyanthRavi/visualqa-india)** | Combines road-damage detection and visual question answering to generate evidence-backed safety scores. | YOLO, BLIP-2, Python |
