@@ -17,7 +17,7 @@
 | **[Llama 3.2 QLoRA](https://github.com/JeyanthRavi/llama-3.2-1b-qlora-finetuning)** | A 4-bit supervised fine-tuning pipeline designed for a single NVIDIA T4. | Unsloth, TRL, PEFT |
 | **[Brain Tumor MRI Benchmark](https://github.com/JeyanthRavi/brain-tumor-mri-classification)** | Compares six CNN and Transformer architectures across four MRI classes. | PyTorch, computer vision |
 | **[BERT Sentiment](https://github.com/JeyanthRavi/bert-movie-sentiment)** | Fine-tunes BERT on IMDb reviews with weighted-F1 evaluation and confidence-scored inference. | Transformers, CUDA |
-| **[Trough](https://github.com/JeyanthRavi/Amazon_ML)** | Entity-resolution pipeline with 23 similarity features; achieved **0.857 public macro F0.5** in the Amazon ML Challenge 2026. | Python, boosted trees |
+| **[Amazon ML Challenge 2026](https://github.com/JeyanthRavi/Amazon_ML)** | Entity-resolution pipeline with 23 similarity features; achieved **0.857 public macro F0.5**. | Python, boosted trees |
 
 ### `> current_processes`
 
